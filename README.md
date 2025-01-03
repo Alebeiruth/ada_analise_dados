@@ -1,0 +1,1 @@
+Codigo mostrando analise de dados com diferentes dataset e situações, correlação, distribuição, sazonalidade, tendencias, ruidos, elementos faltantes, info e descrição, similaridade entre caracteristicas entre outras.
